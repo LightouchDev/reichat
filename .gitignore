@@ -26,5 +26,8 @@ node_modules
 # Users Environment Variables
 .lock-wscript
 
-# Azure Websites Enviroment Settings
+# Azure Websites Environment Settings
 iisnode.yml
+
+# WebStorm Settings
+.idea/
